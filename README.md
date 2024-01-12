@@ -3,4 +3,12 @@
 
 ## Main Results
 ### Nuscenes Detection
+![](result_table.png)
+- Variant A represents BEVDet(BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View) with a segmentation head     
+- Augment represents data augmentation    
+- RGC represents the important proposed Residual Graph Convolutional layers, whose code is provided
+
+## Get Started
+
+
 
