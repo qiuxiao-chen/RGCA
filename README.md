@@ -13,7 +13,9 @@
 
 ## Get Started
 python RGCA.py
-The inputs of Residual Graph Convolutional Layers are randomly generated, and the size of outputs is the result of RGCA.py. Residual Graph Convolutional Layers could be easily applied to any networks and the main results of Nuscenes BEV Map Segmentation are promising. 
+The inputs of Residual Graph Convolutional Layers are randomly generated, and the size of outputs is the result of RGCA.py. 
+
+Residual Graph Convolutional Layers could be easily applied to any networks and the main results of Nuscenes BEV Map Segmentation are promising. 
 
 The rest of Residual Graph Convolutional Network will be posted later.
 
